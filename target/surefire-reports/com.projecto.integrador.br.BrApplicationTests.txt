@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.projecto.integrador.br.BrApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.979 s - in com.projecto.integrador.br.BrApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.783 s - in com.projecto.integrador.br.BrApplicationTests
