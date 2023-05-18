@@ -1,6 +1,7 @@
 com\projecto\integrador\br\Repository\REducacion.class
 com\projecto\integrador\br\Security\jwt\JwtTokenFilter.class
 com\projecto\integrador\br\Security\Entity\Rol.class
+com\projecto\integrador\br\Repository\Rhys.class
 com\projecto\integrador\br\Dto\dtoEducacion.class
 com\projecto\integrador\br\Security\Dto\LoginUsuario.class
 com\projecto\integrador\br\Security\Dto\NuevoUsuario.class
@@ -11,12 +12,15 @@ com\projecto\integrador\br\BrApplication.class
 com\projecto\integrador\br\Security\Entity\UsuarioPrincipal.class
 com\projecto\integrador\br\Entity\Educacion.class
 com\projecto\integrador\br\Service\ImpPersonaService.class
+com\projecto\integrador\br\Dto\dtoPersona.class
 com\projecto\integrador\br\Service\SExperiencia.class
 com\projecto\integrador\br\Security\Repository\iUsuarioRepository.class
 com\projecto\integrador\br\Entity\Persona.class
 com\projecto\integrador\br\Repository\RExperiencia.class
 com\projecto\integrador\br\Security\Controller\AuthController.class
+com\projecto\integrador\br\Dto\dtoHys.class
 com\projecto\integrador\br\Service\Seducacion.class
+com\projecto\integrador\br\Controller\CHys.class
 com\projecto\integrador\br\Dto\dtoExperiencia.class
 com\projecto\integrador\br\Controller\CEducacion.class
 com\projecto\integrador\br\Security\Enums\RolNombre.class
@@ -25,9 +29,11 @@ com\projecto\integrador\br\Security\Entity\Usuario.class
 com\projecto\integrador\br\Controller\CExperiencia.class
 com\projecto\integrador\br\Security\jwt\JwtProvider.class
 com\projecto\integrador\br\Security\MainSecurity.class
+com\projecto\integrador\br\Service\Shys.class
 com\projecto\integrador\br\Security\jwt\JwtEntryPoint.class
 com\projecto\integrador\br\Security\Repository\iRolRepository.class
 com\projecto\integrador\br\Interface\IPersonaService.class
+com\projecto\integrador\br\Entity\hys.class
 com\projecto\integrador\br\Security\Dto\JwtDto.class
 com\projecto\integrador\br\Security\Service\UserDetailsImpl.class
 com\projecto\integrador\br\Controller\PersonaController.class
