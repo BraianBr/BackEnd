@@ -32,7 +32,6 @@ com\projecto\integrador\br\Security\MainSecurity.class
 com\projecto\integrador\br\Service\Shys.class
 com\projecto\integrador\br\Security\jwt\JwtEntryPoint.class
 com\projecto\integrador\br\Security\Repository\iRolRepository.class
-com\projecto\integrador\br\Interface\IPersonaService.class
 com\projecto\integrador\br\Entity\hys.class
 com\projecto\integrador\br\Security\Dto\JwtDto.class
 com\projecto\integrador\br\Security\Service\UserDetailsImpl.class
